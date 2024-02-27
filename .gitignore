@@ -1,0 +1,10 @@
+*.aux
+*.vo
+*.vok
+*.vos
+.CoqMakefile.d
+CoqMakefile 
+CoqMakefile.conf
+dmg0_boot.bin
+Makefile
+
